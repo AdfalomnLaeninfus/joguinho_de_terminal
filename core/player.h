@@ -1,7 +1,7 @@
 #pragma once
 
-#ifndef PlayerLib
-#define PlayerLib
+#ifndef PLAYERLIB
+#define PLAYERLIB
 
 #include "vector/vector2.h"
 
