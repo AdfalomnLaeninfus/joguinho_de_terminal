@@ -7,6 +7,11 @@
 
 int main(void)
 {
+    // Declarando os objetos iniciais.
+
+    Player player;      // Jogador
+    Vector2 spawnPoint; // Ponto de nascimento do player.
+    Vector2 endPoint;   // Ponto de chegada para ganhar o jogo.
 
     return 0;
 }
