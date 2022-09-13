@@ -13,5 +13,14 @@ int main(void)
     Vector2 spawnPoint; // Ponto de nascimento do player.
     Vector2 endPoint;   // Ponto de chegada para ganhar o jogo.
 
+    char * map[] = {
+        "############",
+        "#          #",
+        "#          #",
+        "#          #",
+        "#          #",
+        "############"
+    };
+
     return 0;
 }
