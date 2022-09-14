@@ -22,7 +22,5 @@ int main(void)
         "############"
     };
 
-    printf("%d", ( sizeof( map[0] ) / sizeof( map[0][0] ) ));
-
     return 0;
 }
