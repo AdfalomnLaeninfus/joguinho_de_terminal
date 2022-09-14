@@ -22,5 +22,7 @@ int main(void)
         "############"
     };
 
+    printf("%d", ( sizeof( map ) / sizeof( *map ) ));
+
     return 0;
 }
