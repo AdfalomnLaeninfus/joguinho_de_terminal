@@ -1,7 +1,7 @@
 #pragma once
 
-#ifndef PLAYERLIB
-#define PLAYERLIB
+#ifndef __PLAYERLIB_H__
+#define __PLAYERLIB_H__
 
 #include "vector/vector2.h"
 

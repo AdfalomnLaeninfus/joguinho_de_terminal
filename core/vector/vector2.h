@@ -1,7 +1,7 @@
 #pragma once
 
-#ifndef VECTOR2LIB
-#define VECTOR2LIB
+#ifndef __VECTOR2LIB_H__
+#define __VECTOR2LIB_H__
 
 typedef struct Vector2
 {
